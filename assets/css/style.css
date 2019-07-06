@@ -226,7 +226,7 @@ input[type=submit] {
 
   }
   .main-section {
-    max-width: 420px;
+    max-width: 500px;
   }
   .work {
     width: 100%;
@@ -237,6 +237,9 @@ input[type=submit] {
   .main-section {
     max-width: 100%;
 
+  }
+  #main-container {
+    overflow: auto;
   }
   .work {
     width: 47%;
